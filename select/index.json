@@ -1,8 +1,8 @@
 {
   "version": 1,
   "base_track": "きっとこの命に意味は無かった",
-  "base_artist": "こんにちは谷田さん",
-  "createdAt": "2026-04-05T06:07:32.955935Z",
+  "base_artist": "キタニタツヤ",
+  "createdAt": "2026-04-05T13:55:48.066438Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -40,9 +40,9 @@
       "id": "petitlyrics_1",
       "source": "petitlyrics",
       "title": "きっとこの命に意味は無かった",
-      "artist": "こんにちは谷田さん",
+      "artist": "キタニタツヤ",
       "has_synced": false,
-      "path": "select/pl_01_きっとこの命に意味は無かった_こんにちは谷田さん.txt"
+      "path": "select/pl_01_きっとこの命に意味は無かった_キタニタツヤ.txt"
     }
   ]
 }
